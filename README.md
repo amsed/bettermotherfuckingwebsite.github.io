@@ -1,4 +1,4 @@
-<h1><b>BetterMotherFuckingWebsite</b>  💻 </h1> 
+<h1><b>BetterMotherFuckingWebsite</b>    💻 </h1> 
 
 Création su site demandé (projet 3) avec un pop-up JavaScript.
 
