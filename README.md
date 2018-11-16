@@ -1,3 +1,8 @@
-Création du site BetterMotherFuckingWebsite 💻 avec un pop-up JavaScript.
+<h1><b>BetterMotherFuckingWebsite </b></h1> 💻 
+
+Création su site demandé (projet 3) avec un pop-up JavaScript.
+
+Lien: https://github.com/amsed/bettermotherfuckingwebsite.github.io/blob/master/bettermotherfuckingwebsite.html
+
 
 Par Amel Sedrati (groupe 4).
